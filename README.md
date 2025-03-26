@@ -15,27 +15,18 @@
 ## 💻 **Tech Stack**  
 
 ### 🧠 **Artificial Intelligence & Machine Learning**  
-![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-yellow?style=for-the-badge&logo=ai)  
-![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge&logo=deep-learning)  
-![Generative AI](https://img.shields.io/badge/AI-Generative%20AI-orange?style=for-the-badge&logo=artificial-intelligence)  
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-yellow?style=for-the-badge&logo=ai)  ![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge&logo=deep-learning)  ![Generative AI](https://img.shields.io/badge/AI-Generative%20AI-orange?style=for-the-badge&logo=artificial-intelligence)  
 
 ### ⚙️ **Development & Tools**  
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)  
-![Flask](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)  
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi)  
-![Docker](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker)  
-![MLOps](https://img.shields.io/badge/Tool-MLOps-green?style=for-the-badge&logo=mlops)  
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)  
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-purple?style=for-the-badge&logo=github-actions)  
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)  ![Flask](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)  
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi)  ![Docker](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker)  
+![MLOps](https://img.shields.io/badge/Tool-MLOps-green?style=for-the-badge&logo=mlops)  ![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)  ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-purple?style=for-the-badge&logo=github-actions)  
+
 
 ### 📊 **Databases & Data Science**  
-![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?style=for-the-badge&logo=mysql)  
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb)  
-![Pandas](https://img.shields.io/badge/Library-Pandas-blue?style=for-the-badge&logo=pandas)  
-![NumPy](https://img.shields.io/badge/Library-NumPy-lightblue?style=for-the-badge&logo=numpy)  
-![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange?style=for-the-badge&logo=matplotlib)  
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?style=for-the-badge&logo=mysql)  ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)  
+ ![Pandas](https://img.shields.io/badge/Library-Pandas-blue?style=for-the-badge&logo=pandas)  ![NumPy](https://img.shields.io/badge/Library-NumPy-lightblue?style=for-the-badge&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange?style=for-the-badge&logo=matplotlib)  
 
 ---
 
