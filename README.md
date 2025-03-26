@@ -1,53 +1,64 @@
-# 👋 Hi, I'm Waseem Abbas  
-
-🚀 **Machine Learning Engineer | Deep Learning & Generative AI Enthusiast**  
-
-I specialize in **Deep Learning, Generative AI, Python, Docker, TensorFlow, PyTorch, Flask API, and MLOps**, with a passion for **AI research and real-world AI applications**.  
-
----
-
-## 👀 **Interests**  
-🔹 Passionate about **developing and optimizing AI models**  
-🔹 Working on **innovative machine learning and Generative AI projects**  
-🔹 Exploring **state-of-the-art deep learning architectures**  
-🔹 Staying up-to-date with **cutting-edge AI technologies**  
+# 💫 About Me:
+🔭 I’m currently working as an **AI Engineer**  
+🌱 Currently working with **Medtronix System**  
+💬 Proficient in **Python, SQL, PyTorch, TensorFlow, Flask, and MLOps**  
 
 ---
 
-## 🌱 **Currently Learning**  
-📌 **MLOps** - Deploying ML models efficiently in production  
-📌 **Scalable AI Solutions** - Optimizing AI for large-scale applications  
-📌 **Cloud AI Deployment** - Leveraging AWS, GCP, and Azure for AI  
-📌 **Generative AI** - Exploring LLMs (Large Language Models), GANs, VAEs, and Stable Diffusion  
-
----
-
-## 💞️ **Collaboration**  
-✅ Open to collaborating on:  
-🔹 **AI Research & Deep Learning** projects  
-🔹 **Cloud-based ML solutions & MLOps**  
-🔹 **Generative AI projects (LLMs, GANs, VAEs, Diffusion Models)**  
-🔹 **Open-source contributions**  
-
----
-
-## 🛠️ **Technologies & Tools**  
-
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)  ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange?style=for-the-badge&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/Library-PyTorch-red?style=for-the-badge&logo=pytorch)  ![Generative AI](https://img.shields.io/badge/AI-Generative%20AI-purple?style=for-the-badge&logo=ai)  ![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-yellow?style=for-the-badge&logo=ai)  
-![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge&logo=deep-learning)  ![Flask API](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)  ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi)  ![Docker](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker) ![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)  ![MLOps](https://img.shields.io/badge/Tool-MLOps-green?style=for-the-badge&logo=mlops)  ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws) ![Google Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-blue?style=for-the-badge&logo=google-cloud)  
-
----
-
-## 📫 **How to Reach Me**  
-
+## 🌐 **Socials**  
 [![GitHub](https://img.shields.io/badge/GitHub-WaseemAbbas7070-black?style=for-the-badge&logo=github)](https://github.com/waseemabbas7070)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waseem%20Abbas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/waseem-abbas-3317b729b)  
 [![Email](https://img.shields.io/badge/Email-maharwaseem0070%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:maharwaseem0070@gmail.com)  
 
 ---
 
-## ⚡ **Fun Fact**  
-🎯 AI fascinates me because it blends **mathematics, logic, and creativity** to solve real-world problems in ways we never imagined! 🚀  
+## 💻 **Tech Stack**  
+
+### 🧠 **Artificial Intelligence & Machine Learning**  
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-yellow?style=for-the-badge&logo=ai)  
+![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge&logo=deep-learning)  
+![Generative AI](https://img.shields.io/badge/AI-Generative%20AI-orange?style=for-the-badge&logo=artificial-intelligence)  
+
+### ⚙️ **Development & Tools**  
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)  
+![Flask](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)  
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi)  
+![Docker](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker)  
+![MLOps](https://img.shields.io/badge/Tool-MLOps-green?style=for-the-badge&logo=mlops)  
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)  
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-purple?style=for-the-badge&logo=github-actions)  
+
+### 📊 **Databases & Data Science**  
+![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?style=for-the-badge&logo=mysql)  
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)  
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb)  
+![Pandas](https://img.shields.io/badge/Library-Pandas-blue?style=for-the-badge&logo=pandas)  
+![NumPy](https://img.shields.io/badge/Library-NumPy-lightblue?style=for-the-badge&logo=numpy)  
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange?style=for-the-badge&logo=matplotlib)  
+
+---
+
+## 📊 **GitHub Stats**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseemabbas7070&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemabbas7070&layout=compact&theme=radical)  
+
+---
+
+## 🏆 **GitHub Trophies**  
+![Trophies](https://github-profile-trophy.vercel.app/?username=waseemabbas7070&theme=darkhub)  
+
+---
+
+## ✍️ **Random Dev Quote**  
+![Quote](https://quotes-github-readme.vercel.app/api?quote=Success%20is%20not%20final,%20failure%20is%20not%20fatal:%20it%20is%20the%20courage%20to%20continue%20that%20counts.&author=Winston%20Churchill&type=horizontal&theme=radical)
+
+
+---
+
+## 🔝 **Top Contributed Repo**  
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=waseemabbas7070&theme=radical)  
 
 ---
 
