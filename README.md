@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Waseem Abbas  
 
-🚀 **Machine Learning Engineer | Deep Learning Enthusiast**  
+🚀 **Machine Learning Engineer | Deep Learning & Generative AI Enthusiast**  
 
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python) ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange?style=for-the-badge&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/Library-PyTorch-red?style=for-the-badge&logo=pytorch)  ![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-yellow?style=for-the-badge&logo=ai)  ![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge&logo=deep-learning)![Flask API](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)  
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi)  ![Docker](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker)  ![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)  ![MLOps](https://img.shields.io/badge/Tool-MLOps-green?style=for-the-badge&logo=mlops)  ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws)  ![Google Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-blue?style=for-the-badge&logo=google-cloud)  
+I specialize in **Deep Learning, Generative AI, Python, Docker, TensorFlow, PyTorch, Flask API, and MLOps**, with a passion for **AI research and real-world AI applications**.  
 
 ---
 
 ## 👀 **Interests**  
 🔹 Passionate about **developing and optimizing AI models**  
-🔹 Working on **innovative machine learning projects**  
+🔹 Working on **innovative machine learning and Generative AI projects**  
 🔹 Exploring **state-of-the-art deep learning architectures**  
 🔹 Staying up-to-date with **cutting-edge AI technologies**  
 
@@ -19,6 +18,7 @@
 📌 **MLOps** - Deploying ML models efficiently in production  
 📌 **Scalable AI Solutions** - Optimizing AI for large-scale applications  
 📌 **Cloud AI Deployment** - Leveraging AWS, GCP, and Azure for AI  
+📌 **Generative AI** - Exploring LLMs (Large Language Models), GANs, VAEs, and Stable Diffusion  
 
 ---
 
@@ -26,17 +26,15 @@
 ✅ Open to collaborating on:  
 🔹 **AI Research & Deep Learning** projects  
 🔹 **Cloud-based ML solutions & MLOps**  
+🔹 **Generative AI projects (LLMs, GANs, VAEs, Diffusion Models)**  
 🔹 **Open-source contributions**  
 
 ---
 
 ## 🛠️ **Technologies & Tools**  
-- **Programming Languages**: Python  
-- **Machine Learning & Deep Learning**: TensorFlow, PyTorch  
-- **Frameworks**: Flask, FastAPI  
-- **DevOps & Deployment**: Docker, MLOps  
-- **Version Control**: GitHub  
-- **Cloud Platforms**: AWS, Google Cloud
+
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)  ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange?style=for-the-badge&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/Library-PyTorch-red?style=for-the-badge&logo=pytorch)  ![Generative AI](https://img.shields.io/badge/AI-Generative%20AI-purple?style=for-the-badge&logo=ai)  ![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-yellow?style=for-the-badge&logo=ai)  
+![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge&logo=deep-learning)  ![Flask API](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)  ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi)  ![Docker](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker) ![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)  ![MLOps](https://img.shields.io/badge/Tool-MLOps-green?style=for-the-badge&logo=mlops)  ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws) ![Google Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-blue?style=for-the-badge&logo=google-cloud)  
 
 ---
 
