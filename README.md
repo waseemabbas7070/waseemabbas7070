@@ -2,7 +2,8 @@
 
 🚀 **Machine Learning Engineer | Deep Learning Enthusiast**  
 
-I specialize in **Deep Learning, Python, Docker, TensorFlow, PyTorch, Flask API, and MLOps**, with a passion for **AI research and real-world AI applications**.  
+![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python) ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange?style=for-the-badge&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/Library-PyTorch-red?style=for-the-badge&logo=pytorch)  ![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-yellow?style=for-the-badge&logo=ai)  ![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge&logo=deep-learning)![Flask API](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)  
+![FastAPI](https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi)  ![Docker](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker)  ![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)  ![MLOps](https://img.shields.io/badge/Tool-MLOps-green?style=for-the-badge&logo=mlops)  ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws)  ![Google Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-blue?style=for-the-badge&logo=google-cloud)  
 
 ---
 
@@ -30,19 +31,12 @@ I specialize in **Deep Learning, Python, Docker, TensorFlow, PyTorch, Flask API,
 ---
 
 ## 🛠️ **Technologies & Tools**  
-
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)  
-![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange?style=for-the-badge&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/Library-PyTorch-red?style=for-the-badge&logo=pytorch)  
-![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-yellow?style=for-the-badge&logo=ai)  
-![Deep Learning](https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge&logo=deep-learning)  
-![Flask API](https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask)  
-![FastAPI](https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi)  
-![Docker](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker)  
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)  
-![MLOps](https://img.shields.io/badge/Tool-MLOps-green?style=for-the-badge&logo=mlops)  
-![AWS](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws)  
-![Google Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-blue?style=for-the-badge&logo=google-cloud)  
+- **Programming Languages**: Python  
+- **Machine Learning & Deep Learning**: TensorFlow, PyTorch  
+- **Frameworks**: Flask, FastAPI  
+- **DevOps & Deployment**: Docker, MLOps  
+- **Version Control**: GitHub  
+- **Cloud Platforms**: AWS, Google Cloud
 
 ---
 
