@@ -1,10 +1,10 @@
 # 💫 About Me:
 I'M Waseem! a passionate AI and Machine Learning Engineer dedicated to developing cutting-edge solutions that drive innovation. With expertise in Python, SQL, PyTorch, TensorFlow, Flask, and MLOps, you specialize in building scalable and efficient AI systems. Currently working at Medtronix System, you focus on designing, optimizing, and deploying machine learning models to solve complex real-world challenges. Your commitment to continuous learning and staying at the forefront of AI advancements enables you to create intelligent, data-driven solutions that make a meaningful impact.
----
+
 🔭 I’m currently working as an **AI Engineer**  
 🌱 Currently working with **Medtronix System**  
 💬 Proficient in **Python, SQL, PyTorch, TensorFlow, Flask, and MLOps**  
----
+
 
 ## 💻 **Tech Stack**  
 
