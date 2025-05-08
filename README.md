@@ -9,6 +9,7 @@ I'M Waseem! a passionate AI and Machine Learning Engineer dedicated to developin
 
 ## 🌐 **Socials**  
 [![GitHub](https://img.shields.io/badge/GitHub-WaseemAbbas7070-black?style=for-the-badge&logo=github)](https://github.com/waseemabbas7070) 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waseem%20Abbas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/waseemabbas7070)
 [![Email](https://img.shields.io/badge/Email-maharwaseem0070%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:maharwaseem0070@gmail.com)  
 
