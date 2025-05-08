@@ -4,16 +4,6 @@ I'M Waseem! a passionate AI and Machine Learning Engineer dedicated to developin
 🔭 I’m currently working as an **AI Engineer**  
 🌱 Currently working with **Medtronix System**  
 💬 Proficient in **Python, SQL, PyTorch, TensorFlow, Flask, and MLOps**  
-
----
-
-## 🌐 **Socials**  
-[![GitHub](https://img.shields.io/badge/GitHub-WaseemAbbas7070-black?style=for-the-badge&logo=github)](https://github.com/waseemabbas7070) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waseem%20Abbas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/waseemabbas7070)
-
-[![Email](https://img.shields.io/badge/Email-maharwaseem0070%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:maharwaseem0070@gmail.com)  
-
 ---
 
 ## 💻 **Tech Stack**  
@@ -31,6 +21,16 @@ I'M Waseem! a passionate AI and Machine Learning Engineer dedicated to developin
 ### 📊 **Databases & Data Science**  
 ![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?style=for-the-badge&logo=mysql)  ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)  
  ![Pandas](https://img.shields.io/badge/Library-Pandas-blue?style=for-the-badge&logo=pandas)  ![NumPy](https://img.shields.io/badge/Library-NumPy-lightblue?style=for-the-badge&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-orange?style=for-the-badge&logo=matplotlib)  
+
+---
+## 🌐 **Socials**  
+[![GitHub](https://img.shields.io/badge/GitHub-WaseemAbbas7070-black?style=for-the-badge&logo=github)](https://github.com/waseemabbas7070) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Waseem%20Abbas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/waseemabbas7070)
+
+[![Email](https://img.shields.io/badge/Email-maharwaseem0070%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:maharwaseem0070@gmail.com)  
+
+[![Facebook](https://img.shields.io/badge/Facebook-Waseem%20Abbas-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100057882323405)
 
 ---
 
