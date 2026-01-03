@@ -1,9 +1,9 @@
 # 💫 About Me:
-I'M Waseem! a passionate AI and Machine Learning Engineer dedicated to developing cutting-edge solutions that drive innovation. With expertise in Python, SQL, PyTorch, TensorFlow, Flask, and MLOps, you specialize in building scalable and efficient AI systems. Currently working at Medtronix System, you focus on designing, optimizing, and deploying machine learning models to solve complex real-world challenges. Your commitment to continuous learning and staying at the forefront of AI advancements enables you to create intelligent, data-driven solutions that make a meaningful impact.
+AI/ML Engineer with hands-on experience in machine learning, deep learning, and Generative AI projects. Proficient in Python, TensorFlow, and NLP with a solid background in developing end-to- end AI pipelines and deploying models on AWS. Dedicated to continuous learning and applying advanced AI techniques to solve real-world challenges.
 
-🔭 I’m currently working as an **AI Engineer**  
+🔭 I’m currently working as an **Jr. AI Engineer**  
 🌱 Currently working with **Medtronix System**  
-💬 Proficient in **Python, SQL, PyTorch, TensorFlow, Flask, and MLOps**  
+💬 Proficient in **Python, SQL, TensorFlow, Flask**  
 
 
 ## 💻 **Tech Stack**  
@@ -29,23 +29,7 @@ I'M Waseem! a passionate AI and Machine Learning Engineer dedicated to developin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waseem%20Abbas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/waseemabbas7070)
 
 [![Email](https://img.shields.io/badge/Email-maharwaseem0070%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:maharwaseem0070@gmail.com)  
-
-[![Facebook](https://img.shields.io/badge/Facebook-Waseem%20Abbas-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100057882323405)
-
 ---
-
-## 📊 **GitHub Stats**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseemabbas7070&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemabbas7070&layout=compact&theme=radical)  
-
----
-
-## 🏆 **GitHub Trophies**  
-![Trophies](https://github-profile-trophy.vercel.app/?username=waseemabbas7070&theme=darkhub)  
-
----
-
 ## ✍️ **Random Dev Quote**  
 ![Quote](https://quotes-github-readme.vercel.app/api?quote=Success%20is%20not%20final,%20failure%20is%20not%20fatal:%20it%20is%20the%20courage%20to%20continue%20that%20counts.&author=Winston%20Churchill&type=horizontal&theme=radical)
 
